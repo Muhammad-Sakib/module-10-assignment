@@ -1,6 +1,6 @@
 # Output:
 
-![output o the following code](/output/output1.png)
+![output o the following code](/outputs/output1.png)
 
 # Output after button pressed:
 
