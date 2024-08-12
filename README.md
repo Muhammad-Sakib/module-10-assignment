@@ -1,7 +1,6 @@
-# Output:
+<h1><b> Output: </b></h1>
 
-![output o the following code](/outputs/output1.png =250x)
-
-# Output after button pressed:
-
-![output o the following code](/outputs/output2.png)
+<img src="/outputs/output1.png" width="50%">
+<br><br>
+<h1><b> Output after button pressed:</b></h1>
+<img src="/outputs/output2.png" width="50%">
